@@ -1,6 +1,6 @@
 class loginPage {
     visit() {
-        cy.visit('https://d-katsu-mfb-web-client-63bc62508615.herokuapp.com/');
+        cy.visit('https://d-plat-katsu-web-client.sabi.am');
     }
 
     get email() {

@@ -3,7 +3,7 @@ import { login } from "../fixtures/testdata"
 
 describe('User Interface', () => {
   it('User login', () => {
-    cy.visit('https://d-katsu-mfb-web-client-63bc62508615.herokuapp.com/')
+    cy.visit('https://d-plat-katsu-web-client.sabi.am')
     
     // cy.fixture('test data').then((data)=> {
     //   testdata = data;
